@@ -1,16 +1,15 @@
-## Hi there 👋
+## Oii visitante 👀
 
-<!--
-**rhuansilva1810/rhuansilva1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o Rhuan
 
-Here are some ideas to get you started:
+- Estou aprendendo a programar com a [Alura](https://www.alura.com.br)
+- Sou bem iniciante.
+- Espero aprender bastante sobre o assunto!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Entre em contato comigo 📧
+
+rhuansilvaf10@gmail.com
+
+
+
+![homelander-the-boys](https://github.com/user-attachments/assets/4e438f85-b442-4421-8552-e17f9be10ef1)
